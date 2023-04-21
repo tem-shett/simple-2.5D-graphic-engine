@@ -1,0 +1,3 @@
+C:/Users/artem/CLionProjects/simple-2.5D-graphic-engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artem/CLionProjects/simple-2.5D-graphic-engine/cmake-build-debug/CMakeFiles/graphic-engine.dir
+C:/Users/artem/CLionProjects/simple-2.5D-graphic-engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

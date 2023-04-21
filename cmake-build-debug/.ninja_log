@@ -1,0 +1,14 @@
+# ninja log v5
+10	130	7037930081290175	CMakeFiles/graphic-engine.dir/color_funcs.cpp.obj	56c7331ec90bc1e3
+37	581	7037930085657577	CMakeFiles/graphic-engine.dir/line.cpp.obj	e47365dc9e865997
+45	612	7037930086034677	CMakeFiles/graphic-engine.dir/point.cpp.obj	3f74602927f81c01
+5	680	7037930086760313	CMakeFiles/graphic-engine.dir/framebuffer.cpp.obj	4344f861141f9a4a
+54	891	7037930088870455	CMakeFiles/graphic-engine.dir/geom_funcs.cpp.obj	2d6fcba8c3a19dda
+19	910	7037930088985863	CMakeFiles/graphic-engine.dir/gameobjects.cpp.obj	1d7e6e2688ee8f6c
+14	1296	7037930092856520	CMakeFiles/graphic-engine.dir/texture.cpp.obj	57e7f18542d78904
+60	1586	7037930095832270	CMakeFiles/graphic-engine.dir/bsp.cpp.obj	b725e7f8a8a9577e
+69	1609	7037930096076460	CMakeFiles/graphic-engine.dir/screen_bsp.cpp.obj	a8f59b90a0662b2f
+30	1750	7037930097484857	CMakeFiles/graphic-engine.dir/gamehandler.cpp.obj	977c04f5f591a6d7
+1	1765	7037930097641590	CMakeFiles/graphic-engine.dir/main.cpp.obj	dcd0965326aeb6a8
+24	1885	7037930098828606	CMakeFiles/graphic-engine.dir/draw_objects.cpp.obj	a4a543d61846d28a
+1885	2246	7037930102444220	graphic-engine.exe	9a10d4314e55fc09
